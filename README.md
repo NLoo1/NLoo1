@@ -1,9 +1,24 @@
-Hi, I'm Nicholas (@nloo1)! Currently I'm using GitHub as a repository for personal projects. Right now, I wanted to challenge myself by redoing some old assignments from Stony Brook University's Data Structures course. 
-I'm looking to get into software development and/or engineering, practicing via LeetCode on the side and considering a course at Codecademy.
 
-I originally had planned to major in Computer Science at Stony Brook University, but unfortunately had to switch majors as I found the courses too difficult at the time. As of now, I'm spending most of my time self-learning wherever possible instead!
+# Hi! I’m Nick 👋
 
-<!---
-NLoo1/NLoo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer passionate about building efficient, user-friendly applications. I recently completed a **9-month, self-paced bootcamp** and enjoy collaborating on innovative projects while solving complex problems through code. 
+If you want to work together, feel free to **[message me](mailto:your-email@example.com)**!
+
+
+## Some things about me
+- Stony Brook University alumni. Did not major in CS, though
+- I completed Springboard's Software Engineering bootcamp
+  - For the capstone project, I made a full-stack Pokemon Team Builder! You can check out the frontend [here.](https://github.com/NLoo1/PKMN-team-builder-frontend)
+  - A live demo is available [here!](https://pkmn-team-builder-frontend.onrender.com)
+- Yes, a lot of my repos don't have a README at this time
+- I'll probably lean towards gaming-related or passion projects
+
+## Skills 
+I’m always learning new technologies and refining my approach to development. I have experience writing **full-stack applications** and have worked with:
+
+- **React**
+- **Node**
+- **Java**
+- **Python**
+- **Express**
+
